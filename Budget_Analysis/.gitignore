@@ -1,0 +1,4 @@
+## This is a GitIgnore file for Plaid keys 
+
+# Ignore files called '.env'
+.env
