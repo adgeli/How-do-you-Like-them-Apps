@@ -1,0 +1,4 @@
+## This is a GitIgnore file for Alpaca keys
+
+# Ignore files named '.env'
+.env
