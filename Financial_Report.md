@@ -17,6 +17,7 @@ The use of the PLAID API developer sandbox and ALPACA historical trade data prov
     - [Challenge 2: Early Retirement](#Early-Retirement)
 
 - [Conclusion](#Conclusion)
+
 ---
 
 ## Account Summary
@@ -41,11 +42,11 @@ Travel       |     35.19
 
 #### Expenses Pie Graph
 
-![Expenses_Pie_Chart](Images/Expenses_pie_chart.png)
+<img src="Images/Expenses_pie_chart.png" width="500">
 
 #### Spending per Month Bar Chart
 
-![Bar_Chart](Images/Spending_barchart.png)
+<img src="Images/Spending_barchart.png" width="500">
 
 ### Income Summary
 
@@ -83,7 +84,8 @@ The Monte Carlo simulation consists of 500 iterations over a 30 year timeframe.
 
 At a 90% confidence interval, the investment dollar yield ranges from $34.50 to $92.24. Most likely providing a return at $63.37.
 
-![Frequency](Images/frequency.png)
+<img src="Images/frequency.png" width="500">
+
 
 ### Performance Analysis
 
@@ -117,18 +119,18 @@ The historical data for the retirement portfolio consisting of 60% "SPY" stocks 
 
 The "Portfolio Cumulative Returns Changes" line chart displays the changes in expected cumulative returns at a 90% confidence interval for the fifth, fiftieth, and ninety-fifth quartiles. 
 
-![Cumualtive_returns_changes](Images/cumulativechanges.png)
+<img src="Images/cumulativechanges.png" width="500">
 
 ### Early Retirement
 
 Adjusting the retirement period from 30 years to 5 years, increasing the stock to bond distribution in the given portfolio is required to maintain a 4% withdrawl. In the new scenario, the portfolio allocation consists of 80% stocks, "SPY", and 20% bonds, "AGG."
 
-![5yr_MonteCarlo](Images/5yr_montecarlo.png)
+<img src="Images/5yr_montecarlo.png" width="500">
 
 
 At a 90% confidence interval, the potential dollar investment yield can range from $1.62 to $2.44.
 
-![New_Frequency_Distribution](Images/new_distribution.png)
+<img src="Images/new_distribution.png" width="500">
 
 ---
 
@@ -141,5 +143,5 @@ At a 90% confidence interval, the potential dollar investment yield can range fr
 
 - To retire in 5 years, the initial investment must be significantly higher to return a more profitable dollar investment yield regardless of a higher stock to bond allocation ratio. 
 
-- In conclusion, investing in the retirement portfolio;  SPY (SPDR S&P 500 ETF) and AGG (iShares Core U.S. Aggregate Bond ETF), at a 30 year return period is a profitable investment based on the presented analysis. 
+- In conclusion, investing in the retirement portfolio;  SPY (SPDR S&P 500 ETF) and AGG (iShares Core U.S. Aggregate Bond ETF), at a 30 year return period is a profitable investment based on the presented data and analysis. 
 
