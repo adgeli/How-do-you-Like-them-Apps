@@ -22,6 +22,8 @@ The following assignment uses Plaid and Alpaca API keys to retireve historical s
 
 Part one of the assignment, "Budget Analysis with Plaid" provides a traditional budget analysis to determine the previous years' annual income, the current monthly income, and a projected income for the following year pre tax.
 
+<img src="Images/Monthly_expenses.png" width="500">
+
 ### Part 2:
 
 The second assignment deliverable, "Retirement Portfolio Planner" provides an analysis and projection of a retirement portfolio based on the 2019 historical data for the tickers; "AGG" and "SPY." The analysis consists of a Monte Carlo simulation and a cumulative returns calculations based on a principle investment and thirty year expected returns period. 
@@ -29,6 +31,8 @@ The second assignment deliverable, "Retirement Portfolio Planner" provides an an
 *This section includes 2 bonus challenges* 
 
 Both challenges provide different variables to determine the retirement portfolio's cumulative returns changes throughout the time period of the investment, and an alternate scenario for an earlier retirement. 
+
+<img src="Images/Challenge_image.png" width="500">
 
 ### Part 3:
 
