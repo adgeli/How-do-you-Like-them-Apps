@@ -18,9 +18,9 @@ In this homework assignment, you will help Harold complete the following tasks:
 
 ### Files
 
-* [Budget Starter Notebook](Starter_Code/account_summary.ipynb)
+* [Budget Starter Notebook](Budget_Analysis/account_summary.ipynb)
 
-* [Retirement Planner Starter Notebook](Starter_Code/portfolio_planner.ipynb)
+* [Retirement Planner Starter Notebook](Retirement_Planner/portfolio_planner.ipynb)
 
 ---
 

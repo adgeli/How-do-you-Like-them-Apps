@@ -38,4 +38,22 @@ In the final section of the assignment, a financial analysis is conducted to dem
 
 ## Installation Requirements 
 
-## File Contents 
+* You will need API Keys from the following developer accounts to run and display the code created in this assignment; 
+    * PLAID
+    * ALPACA
+
+```
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install plaid-python
+pip install alpaca-trade-api
+```
+
+---
+
+## Files
+* [Assignment Instructions](Unit_5_Assignment_Instructions.md) 
+* [Part 1: PLAID Budget Analysis](Budget_Analysis/account_summary.ipynb)
+* [Part 2: Retirement Portfolio Planner](Retirement_Planner/portfolio_planner.ipynb)
+* [Part 3: Financial Report](Financial_Report)
